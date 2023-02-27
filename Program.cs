@@ -21,6 +21,7 @@ namespace ICAssignments
 
             Console.WriteLine(fullName);
             Console.WriteLine(helloName);
+            //Console.ReadLine(); Without Readline the above codes doesn't work
             Console.ReadLine();
 
 
